@@ -3,7 +3,7 @@
  * Plugin Name: 엘리멘터용 프리텐다드 가변폰트 (CDN)
  * Plugin URI:  https://socialbridge.co.kr
  * Description: 별도의 폰트 업로드없이 Elementor 편집기 목록에 Pretendard 폰트를 추가하고 사용 가능하게 해줍니다. 최신 CDN을 통해 로드합니다. (v1.3.9 CDN 사용)
- * Version: 1.0
+ * Version: 1.0.1
  * Author: Social Bridge Dev. Team
  * Author URI:  https://socialbridge.co.kr
  * Requires at least: 6.9
